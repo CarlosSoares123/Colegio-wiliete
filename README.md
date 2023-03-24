@@ -1,6 +1,6 @@
 # Colegio Wiliete 
 
-<h2 align="center">🚧Projecto ainda esta em construção🚧</>
+<h2 align="center">🚧Projecto ainda esta em construção🚧</h2>
 
 
 <p>
