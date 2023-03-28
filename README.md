@@ -8,7 +8,7 @@
 </p>
 
 ## Para visitar o site click aqui 👇🏾
-<a href="https://carlossoares123.github.io/wiliete/">Colegio Wiliete</a>
+<a href="https://carlossoares123.github.io/Colegio-wiliete/">Colegio Wiliete</a>
 
 
 
